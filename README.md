@@ -1,4 +1,4 @@
-# salvo
+# Salvo Financial
 
 The contract works off a similar concept to the diamond pattern (see https://eips.ethereum.org/EIPS/eip-2535).
 The main contract is InvestorLp.sol. This is the contract that interacts with EOAs on dApp. 
