@@ -13,3 +13,5 @@ Notes:
 Staking Manager has forked code from MasterChef but personalized implemented code to accomodate the protocol's commission structure to salespeople. 
 JoeHelper & VectorHelper purely conduct external calls to the aforementioned 3rd party contracts.
 InvestorHelper will have the same storage slot variables as InvestorLP to prevent corruption of data between calls. 
+
+![Salvo Helper](https://user-images.githubusercontent.com/16840721/185499729-ca1af357-69a3-4a07-81ff-369d058ce049.png)
